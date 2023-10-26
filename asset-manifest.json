@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/profile_Akash/static/css/main.fee93842.css",
+    "main.js": "/profile_Akash/static/js/main.05b87cdf.js",
+    "static/js/787.f2a0fa2f.chunk.js": "/profile_Akash/static/js/787.f2a0fa2f.chunk.js",
+    "static/media/profilepic.jpg": "/profile_Akash/static/media/profilepic.d75e3b03b9e1cc8e07a4.jpg",
+    "static/media/gradient.jpg": "/profile_Akash/static/media/gradient.7362e628e07e21772149.jpg",
+    "static/media/gradient2.jpg": "/profile_Akash/static/media/gradient2.69abb186216b94679e83.jpg",
+    "index.html": "/profile_Akash/index.html",
+    "main.fee93842.css.map": "/profile_Akash/static/css/main.fee93842.css.map",
+    "main.05b87cdf.js.map": "/profile_Akash/static/js/main.05b87cdf.js.map",
+    "787.f2a0fa2f.chunk.js.map": "/profile_Akash/static/js/787.f2a0fa2f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fee93842.css",
+    "static/js/main.05b87cdf.js"
+  ]
+}
