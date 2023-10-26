@@ -1,0 +1,15 @@
+.printButton{
+    padding:1%;
+    border-radius:10px;
+    margin-top:10%;
+    width:100%;
+    justify-content: center;
+    align-items: center;
+    display:flex;
+    background-color:#f85c70;
+    border: none;
+    color: white;
+}
+.printButton:hover{
+    background-color:#f62440;
+}
